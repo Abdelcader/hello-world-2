@@ -1,2 +1,2 @@
 # hello-world-2
-Tutorial
+Hi, im a computer scientist.
